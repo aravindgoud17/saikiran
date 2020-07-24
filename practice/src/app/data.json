@@ -1,0 +1,38 @@
+[
+    {
+        "ID":"1",
+        "NAME":"Aravind",
+        "PHNO":"7659816080",
+        "DOB":"17/01/1998",
+        "DESIGNATION":"Developer",
+        "SKILLS":"JAVASCRIPT",
+        "HOBBY":"PLAYING GAMES"
+    },
+    {
+        "ID":"2",
+        "NAME":"VIGNESH",
+        "PHNO":"1234567890",
+        "DOB":"17/05/1997",
+        "DESIGNATION":"ANALYST",
+        "SKILLS":"ANGULAR",
+        "HOBBY":"READING BOOK"
+    },
+    {
+        "ID":"3",
+        "NAME":"SAI",
+        "PHNO":"7894561230",
+        "DOB":"25/01/1995",
+        "DESIGNATION":"FULLSTACK",
+        "SKILLS":"ANGULAR",
+        "HOBBY":"PAINTING"
+    },
+    {
+        "ID":"4",
+        "NAME":"aaa",
+        "PHNO":"984761230",
+        "DOB":"25/01/1995",
+        "DESIGNATION":"FULconsultant",
+        "SKILLS":"java",
+        "HOBBY":"cooking"
+    }
+]

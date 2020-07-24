@@ -1,0 +1,33 @@
+<div style="display: inline-flex;">
+<div class="card" *ngFor="let data of covid " style="margin: 20px;" >
+  <!-- <p>{{data.img}}></p> -->
+  <img  src="{{ data.img }}" />
+  <div class="one">
+  <p>name:{{ data.name }}</p>
+  <p>age:{{ data.age }}</p>
+  <p>place:{{ data.place }}</p>
+  <p>testRuns:{{ data.testRuns }}</p>
+  <p>odiRuns:{{ data.odiRuns }}</p>
+</div>
+
+</div>
+</div>
+
+<!-- <table>
+    <tr>
+        <td>image</td>
+        <td>name</td>
+        <td>age</td>
+        <td>place</td>
+        <td>testRuns</td>
+        <td>odiRuns</td>
+    </tr>
+    <tr *ngFor='let data of covid'>
+        <td>{{data.src}}</td>
+        <td>{{data.name}}</td>
+        <td>{{data.age}}</td>
+        <td>{{data.place}}</td>
+        <td>{{data.testRuns}}</td>
+        <td>{{data.odiRuns}}</td>
+    </tr>
+</table> -->

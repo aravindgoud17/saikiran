@@ -1,0 +1,53 @@
+[
+    {
+    "id":"1",
+    "name":"sai",
+    "age":"22",
+    "phno":"7894561230",
+    "designation":"developer",
+    "skills":"playing games",
+    "editdata":false
+    
+},
+{
+    "id":"2",
+    "name":"vignesh",
+    "age":"21",
+    "phno":"7894561130",
+    "designation":"developer",
+    "skills":"playing games",
+    "editdata":false
+    
+},
+{
+    "id":"3",
+    "name":"aravind",
+    "age":"20",
+    "phno":"7894561230",
+    "designation":"developer",
+    "skills":"playing games",
+    "editdata":false
+    
+},
+{
+    "id":"4",
+    "name":"aaaa",
+    "age":"25",
+    "phno":"7894561230",
+    "designation":"developer",
+    "skills":"playing games",
+    "editdata":false
+    
+},
+{
+    "id":"5",
+    "name":"abcd",
+    "age":"24",
+    "phno":"7894561230",
+    "designation":"developer",
+    "skills":"playing games",
+    "editdata":false
+    
+}
+
+]

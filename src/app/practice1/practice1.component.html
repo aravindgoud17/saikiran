@@ -1,0 +1,46 @@
+<!-- <!-- <div>
+    <ion-grid>
+        <ion-row style="background-color: brown;">
+            <ion-col  size='6' size-lg='6' size-md='6' size-sm='4' size-xs='12'>
+<ion-button color="warning" expand="full"  size="large">Button 1</ion-button>
+            </ion-col>
+            <ion-col size='4'>
+                <p>hello 2</p> 
+            </ion-col>
+            <ion-col>
+                <p>hello 3</p>
+            </ion-col>
+            <ion-col>
+                <p>hello 4</p>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+</div> -->
+
+<div>
+  <ion-grid>
+    <ion-row>
+      <ion-col>id</ion-col>
+      <ion-col>name</ion-col>
+      <ion-col>age</ion-col>
+      <!-- <ion-col>phno</ion-col> -->
+      <ion-col>designation</ion-col>
+      <ion-col>skills</ion-col>
+      <ion-col>action</ion-col>
+    </ion-row>
+    <ion-row [contentEditable]="data.editdata" *ngFor="let data of datamembers; index as i">
+      <ion-col size-md="2" size-xs="2">{{ data.id }}</ion-col>
+      <ion-col size-md="2" size-xs="2">{{ data.name }}</ion-col>
+      <ion-col size-md="2" size-xs="2">{{ data.age }}</ion-col>
+      <!-- <ion-col>{{data.phno}}</ion-col> -->
+      <ion-col size-md="2" size-xs="2">{{ data.designation }}</ion-col>
+      <ion-col size-md="2" size-xs="2">{{ data.skills }}</ion-col>
+      <ion-col size-md="2" size-xs="2">
+        <ion-button size="small" shape="round" (click)="data.editdata = !data.editdata">{{
+          data.editdata ? 'save' : 'edit'
+        }}</ion-button>
+        <ion-button size="small" shape="round" color="danger" (click)="delete(i)">delete</ion-button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</div>

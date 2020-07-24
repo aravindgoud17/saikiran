@@ -1,0 +1,59 @@
+{
+  "generator-ngx-rocket": {
+    "appName": "basic",
+    "target": [
+      "web"
+    ],
+    "pwa": true,
+    "mobile": null,
+    "desktop": null,
+    "ui": "ionic",
+    "layout": "side-menu",
+    "auth": true,
+    "lazy": false,
+    "angulartics": false,
+    "languages": [
+      "en-US"
+    ],
+    "analyticsProvider": null,
+    "googleAnalyticsAccount": null,
+    "tools": [
+      "prettier",
+      "hads"
+    ],
+    "utility": [],
+    "deploy": "none",
+    "version": "8.1.1",
+    "props": {
+      "location": "path",
+      "strict": false,
+      "skipInstall": false,
+      "skipQuickstart": false,
+      "initGit": true,
+      "usePrefix": true,
+      "target": [
+        "web"
+      ],
+      "pwa": true,
+      "ui": "ionic",
+      "layout": "side-menu",
+      "auth": true,
+      "lazy": true,
+      "angulartics": false,
+      "languages": [
+        "en-US"
+      ],
+      "tools": [
+        "prettier",
+        "hads"
+      ],
+      "utility": [],
+      "deploy": "none",
+      "appName": "basic-practice",
+      "projectName": "basic-practice",
+      "packageManager": "npm",
+      "mobile": [],
+      "desktop": []
+    }
+  }
+}

@@ -1,0 +1,25 @@
+<table class="tbr" border="2px">
+  <tr>
+    <td>id</td>
+    <td>name</td>
+    <td>age</td>
+    <td>phno</td>
+    <td>designation</td>
+    <td>skills</td>
+    <td>action</td>
+  </tr>
+  <tr [contentEditable]="data.editdata" *ngFor="let data of datalist; index as i">
+    <td>{{ data.id }}</td>
+    <td>{{ data.name }}</td>
+    <td>{{ data.age }}</td>
+    <td>{{ data.phno }}</td>
+    <td>{{ data.designation }}</td>
+    <td>{{ data.skills }}</td>
+    <td>
+      <ion-button color="primary" (click)="data.editdata = !data.editdata">
+        {{ data.editdata ? 'save' : 'edit' }}
+      </ion-button>
+      <ion-button color="danger" (click)="delete(i)"> delete</ion-button>
+    </td>
+  </tr>
+</table>

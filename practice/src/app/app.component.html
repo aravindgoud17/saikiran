@@ -1,0 +1,24 @@
+<table border="2px" >
+    <tr>
+        <td>ID</td>
+        <td>NAME</td>
+        <!-- <td>AGE</td> -->
+        <td>PHNO</td>
+        <td>DOB</td>
+        <td>DESIGNATION</td>
+        <td>SKILLS</td>
+        <td>HOBBY</td>
+        <td>ACTION</td>
+    </tr>
+    <tr *ngFor="let item of data1">
+        <td>{{item[0].ID}}</td>
+        <td>{{item[0].NAME}}</td>
+        <!-- <td>{{item[i].AGE}}</td> -->
+        <td>{{item[0].PHNO}}</td>
+        <td>{{item[0].DOB}}</td>
+        <td>{{item[0].DESIGNATION}}</td>
+        <td>{{item[0].SKILLS}}</td>
+        <td>{{item[0].HOBBY}}</td>
+        <td>{{item[0].ACTION}}</td>
+    </tr>
+</table>
