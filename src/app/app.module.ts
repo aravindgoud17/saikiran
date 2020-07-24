@@ -21,6 +21,7 @@ import { AravindComponent } from './aravind/aravind.component';
 import { KiranComponent } from './kiran/kiran.component';
 import { SaiComponent } from './sai/sai.component';
 import { CricketComponent } from './cricket/cricket.component';
+import { S1Component } from './s1/s1.component';
 
 @NgModule({
   imports: [
@@ -45,6 +46,7 @@ import { CricketComponent } from './cricket/cricket.component';
     KiranComponent,
     SaiComponent,
     CricketComponent,
+    S1Component,
   ],
   providers: [],
   bootstrap: [AppComponent],
