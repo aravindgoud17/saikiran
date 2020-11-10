@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128.952" height="61.499" viewBox="0 0 128.952 61.499">
+    <defs>
+        <filter id="prefix__Path_341" width="43.796" height="59.312" x="4.027" y="2.187" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="1"/>
+            <feFlood flood-opacity=".322"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Path_334" width="18" height="18" x=".225" y="22.927" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Path_357" width="22.81" height="22.81" x="11.706" y="8.09" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-3" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Path_344" width="31.263" height="17.077" x="0" y=".584" filterUnits="userSpaceOnUse">
+            <feOffset dy="1"/>
+            <feGaussianBlur result="blur-4" stdDeviation=".5"/>
+            <feFlood flood-opacity=".361"/>
+            <feComposite in2="blur-4" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Path_473" width="26.713" height="13.992" x="13.788" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="1"/>
+            <feGaussianBlur result="blur-5" stdDeviation=".5"/>
+            <feFlood flood-opacity=".188"/>
+            <feComposite in2="blur-5" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__entastico" width="92" height="33" x="36.952" y="14.071" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-6" stdDeviation="1.5"/>
+            <feFlood flood-opacity=".102"/>
+            <feComposite in2="blur-6" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .prefix__cls-4{fill:#e71d36}.prefix__cls-7{fill:#2ec4b6}.prefix__cls-8{fill:#ff9f1c}
+        </style>
+    </defs>
+    <g id="prefix__Group_411" data-name="Group 411" transform="translate(-23.009 -6.146)">
+        <g id="prefix__logo" transform="translate(24.509 6.646)">
+            <g id="prefix__road">
+                <g transform="translate(-1.5 -.5)">
+                    <path id="prefix__Path_341-2" d="M-26.641 22.98s6.427-5.028 12.871-10.264C-9.3 12.143-.163 16.381 2 20.809l.243.487c5.6 11.216-5.392 17.568-5.392 17.568l13.806 26.654-22.08-17.584-6.843 15.836z" data-name="Path 341" transform="translate(33.94 -10.21)" style="stroke:rgba(255,255,255,.57);stroke-width:.5px;fill:#fff"/>
+                </g>
+                <g id="prefix__Group_253" data-name="Group 253" transform="rotate(-2 297.599 -197.331)">
+                    <g transform="translate(-8.21 -11.09)"/>
+                    <g id="prefix__Path_420" data-name="Path 420" transform="translate(8.212)">
+                        <path id="prefix__Path_560" d="M5.446 10.893a5.446 5.446 0 1 1 5.446-5.446 5.453 5.453 0 0 1-5.446 5.446z" data-name="Path 560" transform="translate(.587 .587)" style="fill:#f25757"/>
+                        <path id="prefix__Path_561" d="M6.033 1.173a4.86 4.86 0 1 0 4.86 4.86 4.865 4.865 0 0 0-4.86-4.86m0-1.173A6.033 6.033 0 1 1 0 6.033 6.033 6.033 0 0 1 6.033 0z" data-name="Path 561" style="fill:#dedede"/>
+                    </g>
+                    <g id="prefix__Path_340" data-name="Path 340" transform="translate(11.903 1.543)">
+                        <path id="prefix__Path_562" d="M1.7 21.315a1.7 1.7 0 0 1-1.7-1.7V1.7a1.7 1.7 0 1 1 3.4 0v17.917a1.7 1.7 0 0 1-1.7 1.698z" class="prefix__cls-4" data-name="Path 562" transform="translate(.293 .293)"/>
+                        <path id="prefix__Path_563" d="M1.991.587a1.406 1.406 0 0 0-1.4 1.4v17.924a1.4 1.4 0 1 0 2.809 0V1.991A1.406 1.406 0 0 0 2 .591m0-.587a1.991 1.991 0 0 1 1.982 1.987v17.92a1.991 1.991 0 1 1-3.982 0V1.991A1.991 1.991 0 0 1 1.991 0z" data-name="Path 563" style="fill:#d7d7d7"/>
+                    </g>
+                    <path id="prefix__Path_335" d="M0 0h4.552v1.268H0z" class="prefix__cls-4" data-name="Path 335" transform="translate(9.06 19.871)"/>
+                    <path id="prefix__Path_338" d="M0 0h3.988v1.416H0z" class="prefix__cls-4" data-name="Path 338" transform="translate(9.63 16.616)"/>
+                    <path id="prefix__Path_336" d="M0 0h4.651v1.469H0z" class="prefix__cls-4" data-name="Path 336" transform="translate(9.563 18.682)"/>
+                    <path id="prefix__Path_337" d="M0 0h3.74v1.139H0z" class="prefix__cls-4" data-name="Path 337" transform="translate(10.323 17.779)"/>
+                    <circle id="prefix__Ellipse_27" cx="5.374" cy="5.374" r="5.374" class="prefix__cls-4" data-name="Ellipse 27" transform="translate(8.715 .769)"/>
+                    <g transform="translate(-8.21 -11.09)">
+                        <path id="prefix__Path_357-2" d="M2.324 0A2.324 2.324 0 1 1 0 2.324 2.324 2.324 0 0 1 2.324 0z" data-name="Path 357" transform="rotate(-2.01 416.515 -583.16)" style="fill:#fff"/>
+                    </g>
+                </g>
+                <rect id="prefix__Rectangle_92" width="1.173" height="18.768" class="prefix__cls-7" data-name="Rectangle 92" rx=".5" transform="rotate(22.03 -84.809 71.776)"/>
+                <path id="prefix__Path_421" d="M.587 0a.6.6 0 0 1 .587.619v27.226a.6.6 0 0 1-.587.619.6.6 0 0 1-.587-.619V.619A.6.6 0 0 1 .587 0z" class="prefix__cls-7" data-name="Path 421" transform="rotate(130.02 8.672 37.515)"/>
+                <g id="prefix___158939" data-name="158939">
+                    <g transform="translate(-1.5 -.5)">
+                        <path id="prefix__Path_344-2" d="M43.711-777.721l-10.8 8.446 1.973.008 4.094.345 7.749-5.828c1.945-1.462 5.139-4.029 6.818-5.292l3.05-2.292L55.92-781c3.284 2.622 5.383 4.276 5.127 4.042a.4.4 0 0 1-.117-.142c0-.017.008-.072.011-.124v-.094l.128.1c.069.059.117.089.106.073-.025-.041-2.463-2.1-4.986-4.223L54.247-783H50.3z" class="prefix__cls-8" data-name="Path 344" transform="translate(-31.41 784.08)"/>
+                    </g>
+                    <path id="prefix__Path_348" d="M905.224-570.853a.56.56 0 0 0 .169.147c.022 0-.022-.066-.1-.147a.558.558 0 0 0-.169-.147c-.017 0 .026.066.1.147z" data-name="Path 348" transform="translate(-852.764 582.577)"/>
+                    <path id="prefix__Path_349" d="M904-560.948a.423.423 0 0 0 .133.124c.11.095.117.088.022-.029S904-561 904-560.948z" data-name="Path 349" transform="translate(-851.723 573.287)"/>
+                    <path id="prefix__Path_352" d="M1121-480.985a3.346 3.346 0 0 0 .426.338l.417.308-.366-.338c-.324-.293-.477-.395-.477-.308z" data-name="Path 352" transform="translate(-1052.81 499.191)"/>
+                    <g transform="translate(-1.5 -.5)">
+                        <path id="prefix__Path_473-2" d="M51.388-778.33l7.994 6.322-4.771-.33h-1.62l-5.49-4.167-5.413-4.066-2.5-1.882-1.372 1.1c-2.7 2.153-2.647 1.888-2.438 1.7a.33.33 0 0 0 .1-.116c0-.014-.007-.059-.009-.1v-.077l-.1.085c-.057.048-.1.073-.087.06a26.992 26.992 0 0 0 2.321-1.844L39.59-783h6.239z" class="prefix__cls-8" data-name="Path 473" transform="translate(-20.38 783.5)"/>
+                    </g>
+                </g>
+                <g transform="translate(-1.5 -.5)">
+                    <text id="prefix__entastico-2" data-name="entastico" transform="translate(41.45 34.57)" style="font-size:20px;font-family:Roboto-Regular,Roboto;fill:#fff">
+                        <tspan x="0" y="0">entastico</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

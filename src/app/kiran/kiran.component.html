@@ -1,16 +1,15 @@
 <div style="display: inline-flex;">
-<div class="card" *ngFor="let data of covid " style="margin: 20px;" >
-  <!-- <p>{{data.img}}></p> -->
-  <img  src="{{ data.img }}" />
-  <div class="one">
-  <p>name:{{ data.name }}</p>
-  <p>age:{{ data.age }}</p>
-  <p>place:{{ data.place }}</p>
-  <p>testRuns:{{ data.testRuns }}</p>
-  <p>odiRuns:{{ data.odiRuns }}</p>
-</div>
-
-</div>
+  <div class="card" *ngFor="let data of covid" style="margin: 20px;">
+    <!-- <p>{{data.img}}></p> -->
+    <img src="{{ data.img }}" />
+    <div class="one">
+      <p>name:{{ data.name }}</p>
+      <p>age:{{ data.age }}</p>
+      <p>place:{{ data.place }}</p>
+      <p>testRuns:{{ data.testRuns }}</p>
+      <p>odiRuns:{{ data.odiRuns }}</p>
+    </div>
+  </div>
 </div>
 
 <!-- <table>

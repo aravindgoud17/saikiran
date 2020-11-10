@@ -1,0 +1,37 @@
+<!-- <ion-content>
+    <h2>Registration</h2>
+    <form >
+        <label >First name:</label><br>
+        <input type="text"placeholder="enter first name" ><br>
+        <label >Last name:</label><br>
+        <input type="text"  ><br>
+        <label >email:</label><br>
+        <input type="email"  ><br>
+        <label >password:</label><br>
+        <input type="password"  ><br>
+        <ion-button>register</ion-button>
+      </form> 
+</ion-content> -->
+<ion-content>
+    <h2>register</h2>
+    <form>
+        <div class="form-group">
+            <label >first name</label>
+            <input type="text">
+
+            <label>last name</label>
+            <input type="text">
+
+            <label>email</label>
+            <input type="email">
+
+            <label>password</label>
+            <input type="password">
+
+        </div>
+        <div>
+            <button (click)="showAlert()" type="submit" [routerLink]="['/signin']" routerLinkActive="router-link-active" >Regiter</button>
+        </div>
+    </form>
+</ion-content>
+  

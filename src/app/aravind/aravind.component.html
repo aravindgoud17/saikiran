@@ -1,15 +1,20 @@
-<!-- <ion-card>
-    <ion-card-header (click)="toggleAccordion()">
-        CALENDER
-    </ion-card-header>
-    <ion-card-content #cc>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dolor aliquam voluptate ad,
-         exercitationem nisi odit optio, ipsam, vero maxime minima corporis molestias ratione.
-          Corrupti hic nisi facere quo cumque?
-    </ion-card-content>
-</ion-card> -->
-<div >
-<img  style="padding: 20px;" src="assets/virat.jpg">
-<img style="padding: 20px;" src="assets/dhoni.jpg">
-<img  style="height: 250px; padding: 10px;" src="assets/raina.jpg">
-</div>
+<ion-content>
+  <ion-card style="width: 336.2px; height: 441.6px; margin-top: 50px; display: inline-flex;" *ngFor="let data of datas">
+    <div class="one">
+      <ion-row>
+        <ion-col>
+          <img class="card_img" src="{{ data.img }}" />
+          <ion-card-title class="ttl">{{ data.title }}</ion-card-title>
+          <ion-card-content class="con1">{{ data.content }}</ion-card-content>
+        </ion-col>
+      </ion-row>
+    </div>
+    <ion-row>
+      <ion-col class="two">
+        <ion-avatar><img style="margin-top: -24px;" src="{{ data.avatar }}" /></ion-avatar>
+        <p>by <span style="color: red;">ravi </span>from Hyderabad</p>
+      </ion-col>
+    </ion-row>
+    <ion-icon name="map"></ion-icon>
+  </ion-card>
+</ion-content>

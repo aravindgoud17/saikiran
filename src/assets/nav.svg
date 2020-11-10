@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1010.5" height="38.545" viewBox="0 0 1010.5 38.545">
+    <defs>
+        <filter id="prefix__Icon_awesome-user-alt" width="38.368" height="38.34" x="972.132" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="8"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Icon_ionic-md-help-circle" width="38" height="38" x="915.399" y=".545" filterUnits="userSpaceOnUse">
+            <feOffset dy="8"/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Icon_awesome-search" width="38" height="38" x="861.456" y=".168" filterUnits="userSpaceOnUse">
+            <feOffset dy="8"/>
+            <feGaussianBlur result="blur-3" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .prefix__cls-1{fill:#fff}.prefix__cls-2{fill:none;stroke:rgba(255,255,255,.5)}
+        </style>
+    </defs>
+    <g id="prefix__nav" transform="translate(0 1)">
+        <g id="prefix__Group_6" data-name="Group 6" transform="translate(870.456)">
+            <g transform="translate(-870.46 -1)">
+                <path id="prefix__Icon_awesome-user-alt-2" d="M10.184 11.441a5.721 5.721 0 1 0-5.729-5.72 5.726 5.726 0 0 0 5.729 5.72zm5.092 1.271h-2.192a6.933 6.933 0 0 1-5.8 0H5.092A5.088 5.088 0 0 0 0 17.8v.636a1.909 1.909 0 0 0 1.909 1.904h16.549a1.909 1.909 0 0 0 1.909-1.907V17.8a5.088 5.088 0 0 0-5.091-5.087z" class="prefix__cls-1" data-name="Icon awesome-user-alt" transform="translate(981.13 1)"/>
+            </g>
+            <path id="prefix__Path_423" d="M0 0v20.34" class="prefix__cls-2" data-name="Path 423" transform="translate(35.333 .678)"/>
+            <path id="prefix__Path_424" d="M0 0v20.34" class="prefix__cls-2" data-name="Path 424" transform="translate(97.333 .678)"/>
+            <g transform="translate(-870.46 -1)">
+                <path id="prefix__Icon_ionic-md-help-circle-2" d="M13.375 3.375a10 10 0 1 0 10 10 10 10 0 0 0-10-10zm1.01 16.01h-2.02v-2.02h2.019zm-.01-3.029h-2c0-3.221 3-2.99 3-4.99a2.009 2.009 0 0 0-2-2 2.029 2.029 0 0 0-2 2h-2a4 4 0 0 1 8 0c0 2.495-3 2.778-3 4.99z" class="prefix__cls-1" data-name="Icon ionic-md-help-circle" transform="translate(921.02 -1.83)"/>
+            </g>
+            <g transform="translate(-870.46 -1)">
+                <path id="prefix__Icon_awesome-search-2" d="M19.728 17.291L15.833 13.4a.937.937 0 0 0-.664-.273h-.637a8.122 8.122 0 1 0-1.406 1.406v.637a.937.937 0 0 0 .273.664l3.895 3.894a.934.934 0 0 0 1.324 0l1.106-1.105a.942.942 0 0 0 .004-1.332zm-11.6-4.168a5 5 0 1 1 5-5 5 5 0 0 1-5.002 5.001z" class="prefix__cls-1" data-name="Icon awesome-search" transform="translate(870.46 1.17)"/>
+            </g>
+        </g>
+        <path id="prefix__Icon_ionic-md-menu" d="M4.5 27h27v-3h-27zm0-7.5h27v-3h-27zM4.5 9v3h27V9z" class="prefix__cls-1" data-name="Icon ionic-md-menu" transform="translate(-4.5 -6)"/>
+    </g>
+</svg>

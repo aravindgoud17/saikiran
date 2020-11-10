@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132.587" height="52.917" viewBox="0 0 132.587 52.917">
+    <defs>
+        <filter id="prefix__Path_341" width="38.295" height="51.515" x="4.26" y="1.403" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="1"/>
+            <feFlood flood-opacity=".322"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Path_334" width="18.139" height="21.975" x="0" y="16.292" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Path_420" width="13.639" height="13.639" x="14.089" y="7.748" filterUnits="userSpaceOnUse">
+            <feOffset dy="1"/>
+            <feGaussianBlur result="blur-3" stdDeviation=".5"/>
+            <feFlood flood-opacity=".078"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Path_357" width="22.098" height="22.098" x="9.908" y="5.682" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-4" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-4" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Path_344" width="27.102" height="15.005" x="1.094" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="1"/>
+            <feGaussianBlur result="blur-5" stdDeviation=".5"/>
+            <feFlood flood-opacity=".361"/>
+            <feComposite in2="blur-5" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__Path_473" width="27.623" height="14.413" x="11.844" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="1"/>
+            <feGaussianBlur result="blur-6" stdDeviation=".5"/>
+            <feFlood flood-opacity=".188"/>
+            <feComposite in2="blur-6" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__entastico" width="101" height="36" x="31.587" y="11.354" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-7" stdDeviation="1.5"/>
+            <feFlood flood-opacity=".102"/>
+            <feComposite in2="blur-7" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .prefix__cls-4{fill:#e71d36}.prefix__cls-6{fill:#2ec4b6}.prefix__cls-7{fill:#ff9f1c}.prefix__cls-9{stroke:none}
+        </style>
+    </defs>
+    <g id="prefix__road" transform="translate(4.504 1.5)">
+        <g transform="translate(-4.5 -1.5)">
+            <path id="prefix__Path_341-2" d="M-26.641 21.458s5.479-4.286 10.973-8.75c3.811-.488 11.6 3.125 13.445 6.9l.207.415C2.758 29.585-6.613 35-6.613 35L5.156 57.722l-18.824-14.99-5.833 13.5z" data-name="Path 341" transform="translate(34.18 -11)" style="stroke:rgba(255,255,255,.57);stroke-width:.5px;fill:#fff"/>
+        </g>
+        <g id="prefix__Group_253" data-name="Group 253" transform="rotate(-2 212.064 -111.343)">
+            <g transform="translate(-8.22 -9.15)"/>
+            <g transform="translate(-8.22 -9.15)">
+                <g id="prefix__Path_420-2" data-name="Path 420" style="fill:#f25757">
+                    <path d="M5.143 9.786C2.583 9.786.5 7.703.5 5.143.5 2.583 2.583.5 5.143.5c2.56 0 4.643 2.083 4.643 4.643 0 2.56-2.083 4.643-4.643 4.643z" class="prefix__cls-9" transform="translate(15.59 8.61)"/>
+                    <path d="M5.143 1C2.859 1 1 2.859 1 5.143c0 2.285 1.859 4.143 4.143 4.143 2.285 0 4.143-1.858 4.143-4.143C9.286 2.859 7.428 1 5.143 1m0-1c2.84 0 5.143 2.303 5.143 5.143s-2.303 5.143-5.143 5.143S0 7.983 0 5.143 2.303 0 5.143 0z" style="fill:#dedede;stroke:none" transform="translate(15.59 8.61)"/>
+                </g>
+            </g>
+            <g id="prefix__Path_340" data-name="Path 340" style="fill:#e71d36">
+                <path d="M1.697 18.421c-.798 0-1.447-.65-1.447-1.447V1.697C.25.9.9.25 1.697.25c.798 0 1.448.65 1.448 1.447v15.277c0 .798-.65 1.447-1.448 1.447z" class="prefix__cls-9" transform="translate(10.259 1.243)"/>
+                <path d="M1.697.5C1.037.5.5 1.037.5 1.697v15.277c0 .66.537 1.197 1.197 1.197s1.198-.537 1.198-1.197V1.697C2.895 1.037 2.358.5 1.697.5m0-.5c.938 0 1.698.76 1.698 1.697v15.277c0 .937-.76 1.697-1.698 1.697-.937 0-1.697-.76-1.697-1.697V1.697C0 .76.76 0 1.697 0z" style="fill:#d7d7d7;stroke:none" transform="translate(10.259 1.243)"/>
+            </g>
+            <path id="prefix__Path_335" d="M0 0h3.881v1.081H0z" class="prefix__cls-4" data-name="Path 335" transform="translate(7.835 16.868)"/>
+            <path id="prefix__Path_338" d="M0 0h3.4v1.207H0z" class="prefix__cls-4" data-name="Path 338" transform="translate(8.321 14.093)"/>
+            <path id="prefix__Path_336" d="M0 0h3.965v1.252H0z" class="prefix__cls-4" data-name="Path 336" transform="translate(8.264 15.854)"/>
+            <path id="prefix__Path_337" d="M0 0h3.188v.971H0z" class="prefix__cls-4" data-name="Path 337" transform="translate(8.912 15.084)"/>
+            <circle id="prefix__Ellipse_27" cx="4.581" cy="4.581" r="4.581" class="prefix__cls-4" data-name="Ellipse 27" transform="translate(7.541 .583)"/>
+            <g transform="translate(-8.22 -9.15)">
+                <path id="prefix__Path_357-2" d="M1.981 0A1.981 1.981 0 1 1 0 1.981 1.981 1.981 0 0 1 1.981 0z" data-name="Path 357" transform="translate(18.91 11.82)" style="fill:#fff"/>
+            </g>
+        </g>
+        <rect id="prefix__Rectangle_92" width="1" height="16" class="prefix__cls-6" data-name="Rectangle 92" rx=".5" transform="rotate(22 -69.497 55.58)"/>
+        <path id="prefix__Path_421" d="M.5 0a.514.514 0 0 1 .5.528v23.21a.514.514 0 0 1-.5.528.514.514 0 0 1-.5-.528V.528A.514.514 0 0 1 .5 0z" class="prefix__cls-6" data-name="Path 421" transform="rotate(130.02 6.788 30.788)"/>
+        <g id="prefix___158939" data-name="158939">
+            <g transform="translate(-4.5 -1.5)">
+                <path id="prefix__Path_344-2" d="M42.118-778.5l-9.206 7.2 1.682.007 3.49.294 6.606-4.968c1.658-1.246 4.381-3.435 5.812-4.511l2.6-1.954-.576 1.138c2.8 2.235 4.589 3.645 4.371 3.446-.059-.052-.1-.106-.1-.121s.007-.061.009-.106v-.08l.109.088c.059.05.1.076.09.062-.021-.035-2.1-1.793-4.251-3.6L51.1-783h-3.364z" class="prefix__cls-7" data-name="Path 344" transform="translate(-30.32 783.5)"/>
+            </g>
+            <path id="prefix__Path_348" d="M905.209-570.875a.478.478 0 0 0 .144.125c.019 0-.019-.056-.081-.125a.478.478 0 0 0-.144-.125c-.019 0 .018.056.081.125z" data-name="Path 348" transform="translate(-862.395 579.371)"/>
+            <path id="prefix__Path_349" d="M904-560.952a.358.358 0 0 0 .113.106c.094.081.1.075.019-.025S904-561 904-560.952z" data-name="Path 349" transform="translate(-861.342 569.973)"/>
+            <path id="prefix__Path_352" d="M1121-480.989a2.843 2.843 0 0 0 .363.288l.356.263-.312-.288c-.282-.251-.407-.338-.407-.263z" data-name="Path 352" transform="translate(-1064.776 495.012)"/>
+            <g transform="translate(-4.5 -1.5)">
+                <path id="prefix__Path_473-2" d="M51.99-778.151l8.3 6.564-4.954-.343h-1.682l-5.7-4.327-5.62-4.222-2.6-1.954-1.424 1.138c-2.8 2.235-2.748 1.96-2.531 1.761.059-.052.1-.106.1-.121s-.007-.061-.009-.106v-.08l-.109.088c-.059.05-.1.076-.09.062a28.015 28.015 0 0 0 2.41-1.915L39.74-783h6.478z" class="prefix__cls-7" data-name="Path 473" transform="translate(-22.32 783.5)"/>
+            </g>
+        </g>
+        <g transform="translate(-4.5 -1.5)">
+            <text id="prefix__entastico-2" data-name="entastico" transform="translate(82.09 33.85)" style="font-size:22px;font-family:Roboto-Regular,Roboto;fill:#fff">
+                <tspan x="-45.439" y="0">entastico</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
