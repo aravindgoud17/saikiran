@@ -23,6 +23,7 @@ import { Form2Component } from './form2/form2.component';
 import { TdfComponent } from './tdf/tdf.component';
 import { StorageComponent } from './storage/storage.component';
 import { HeaderComponent } from './header/header.component';
+import { UiscreenComponent } from './uiscreen/uiscreen.component';
 
 const routes: Routes = [
   { path: 'api', component: ApidataComponent },
@@ -46,6 +47,7 @@ const routes: Routes = [
   { path: 'tdf', component: TdfComponent },
   { path: 'storage', component: StorageComponent },
   { path: 'header', component: HeaderComponent },
+  { path: 'uiscreen', component: UiscreenComponent },
   { path: 's1', component: S1Component },
 
   Shell.childRoutes([{ path: 'about', loadChildren: () => import('./about/about.module').then((m) => m.AboutModule) }]),

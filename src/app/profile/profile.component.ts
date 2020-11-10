@@ -8,14 +8,19 @@ import { FormControl } from '@angular/forms';
 })
 export class ProfileComponent implements OnInit {
   name = new FormControl('');
+  email = new FormControl('');
+  result:any;
+  ggg:any;
 
   constructor() { }
 
   ngOnInit(): void {
   }
   
-  updateName() {
-    this.name.setValue('helloooooo');
+  clear() {
+    console.log(this.ggg)
+    this.result=name
+    this.name.setValue('');
   }
 
 }

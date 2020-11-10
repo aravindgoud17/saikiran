@@ -19,7 +19,7 @@
     <!-- <ion-text > dont have an account</ion-text><br>
     <ion-button  [routerLink]="['/signup']" routerLinkActive="router-link-active" >register</ion-button> -->
   <!-- </div> -->
-  <app-header></app-header>
+  <!-- <app-header></app-header> -->
   <ion-content>
       <div style="text-align: center;">
           <h2><B><U>LOGIN</U></B></h2>
@@ -41,10 +41,10 @@
                 <span  style="color: red;" *ngIf="loginform.get('password').hasError('pattern')">must contain 8 characters & one spl and numaric</span>
               </div>
 
-              <ion-button  [routerLink]="['/profile']"  [disabled]="!loginform.valid" (click)=loginalert()>Login</ion-button>
+              <ion-button type="submit"    [disabled]="!loginform.valid" >Login</ion-button>
               <ion-button  [routerLink]="['/form2']"  >Register</ion-button>
           </form>
       </div>
   </ion-content>
 
-   
+  <!-- [routerLink]="['/profile']" -->

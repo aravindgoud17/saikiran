@@ -38,6 +38,7 @@ import { Form2Component } from './form2/form2.component';
 import { TdfComponent } from './tdf/tdf.component';
 import { StorageComponent } from './storage/storage.component';
 import { HeaderComponent } from './header/header.component';
+import { UiscreenComponent } from './uiscreen/uiscreen.component';
 
 
 
@@ -81,6 +82,7 @@ import { HeaderComponent } from './header/header.component';
     TdfComponent,
     StorageComponent,
     HeaderComponent,
+    UiscreenComponent,
   ],
   providers: [UsersService],
   bootstrap: [AppComponent],

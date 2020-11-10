@@ -17,10 +17,25 @@ export class SigninComponent implements OnInit {
   ngOnInit(): void {
   }
   onSubmit(){
-    console.warn(this.loginform.value);
+    // console.log(this.loginform.value);
+    const stringUsers = localStorage.getItem("users");
+    const users=JSON.parse(stringUsers)
+
+    const userExisted = users.find((u: any) => u.email === this.loginform.value.email);
+    const passwordExisted = users.find((u: any) => u.password === this.loginform.value.password);
+
+    if (userExisted && passwordExisted) {
+     
+      alert("welcome")
+
+     
+      // console.log(users);
+    } else{
+      alert('wrong username or password')
+    };
+
+   
   }
-  loginalert(){
-    alert("your login success");
-  }
+ 
 
 }
